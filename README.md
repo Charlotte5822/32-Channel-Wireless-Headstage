@@ -1,12 +1,16 @@
 # 32-Channel-Wireless-Headstage
 Welcome to the repository for our wireless neural recording headstage! This project aims to revolutionize the field of neuroscience by providing a compact, lightweight, and versatile solution for chronic intracortical neural signal recording in freely moving animals.
 
+
+
 ## Pictures 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="pictures/layered.jpeg" alt="layered" width="363" height="auto" style="margin-right: 10px;" />
     <img src="pictures/seperated.jpeg" alt="seperated" width="300" height="auto" style="margin-left: 10px;" />
 </div>
+
+### The repository contains necessary code and PCB files to create a wireless headstage.
 
 ## Physical Specifications
 
