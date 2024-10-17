@@ -6,7 +6,8 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 
 
 <img src="pictures/layered.jpeg" alt="layered" width="300" height="auto" />
-![seperated](pictures/seperated.jpeg)
+<img src="pictures/seperated.jpeg" alt="layered" width="300" height="auto" />
+
 
 
 ## Physical Specifications
