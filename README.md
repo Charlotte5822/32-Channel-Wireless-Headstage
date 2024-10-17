@@ -3,8 +3,8 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 
 ## Pictures 
 
-![layered](path/to/wireless_headstage_image.jpg)
-![seperated](path/to/wireless_headstage_image.jpg)
+![layered](pictures/layered.jpeg)
+![seperated](pictures/seperated.jpeg)
 
 
 ## Physical Specifications
