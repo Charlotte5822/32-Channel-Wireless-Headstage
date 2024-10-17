@@ -9,6 +9,16 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 <img src="pictures/seperated.jpeg" alt="layered" width="300" height="auto" />
 
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="path/to/pictures/layered.jpeg" alt="Wireless Headstage Front" width="300" height="auto" />
+        <p><em>Figure 1: Front view of our wireless, reusable digital headstage.</em></p>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="path/to/pictures/seperated.jpeg" alt="Wireless Headstage Side" width="300" height="auto" />
+        <p><em>Figure 2: Side view of our wireless headstage with Omnetics 2250 connector.</em></p>
+    </div>
+</div>
 
 ## Physical Specifications
 
