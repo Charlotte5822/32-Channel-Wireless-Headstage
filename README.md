@@ -3,7 +3,9 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 
 ## Pictures 
 
-![layered](pictures/layered.jpeg)
+
+
+<img src="pictures/layered.jpeg" alt="layered" width="300" height="auto" />
 ![seperated](pictures/seperated.jpeg)
 
 
