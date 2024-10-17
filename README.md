@@ -3,21 +3,9 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 
 ## Pictures 
 
-
-
-<img src="pictures/layered.jpeg" alt="layered" width="300" height="auto" />
-<img src="pictures/seperated.jpeg" alt="layered" width="300" height="auto" />
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="path/to/pictures/layered.jpeg" alt="Wireless Headstage Front" width="300" height="auto" />
-        <p><em>Figure 1: Front view of our wireless, reusable digital headstage.</em></p>
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="path/to/pictures/seperated.jpeg" alt="Wireless Headstage Side" width="300" height="auto" />
-        <p><em>Figure 2: Side view of our wireless headstage with Omnetics 2250 connector.</em></p>
-    </div>
+    <img src="pictures/layered.jpeg" alt="layered" width="363" height="auto" style="margin-right: 10px;" />
+    <img src="pictures/seperated.jpeg" alt="seperated" width="300" height="auto" style="margin-left: 10px;" />
 </div>
 
 ## Physical Specifications
@@ -25,6 +13,7 @@ Welcome to the repository for our wireless neural recording headstage! This proj
 - **Weight:** 7.34 grams
 - **Dimensions:** 23.5 x 18 x 22 mm
 - **Connector:** Omnetics 2250
+- **Sampling speed:** 32 channels at 30KHz (16 bits)
 
 
 
